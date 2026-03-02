@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aarav Banshiwala</h1>
-<h3 align="center">A passionate software engineer/app developer from India</h3>
+<h3 align="center">A passionate software engineer/product designer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaravbanshiwala&label=Profile%20views&color=0e75b6&style=flat" alt="aaravbanshiwala" /> </p>
 
@@ -7,19 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/aaravbanshiwala" target="blank"><img src="https://img.shields.io/twitter/follow/aaravbanshiwala?logo=twitter&style=for-the-badge" alt="aaravbanshiwala" /></a> </p>
 
-- 🔭 I’m currently working on [Spectra](https://github.com/aaravbanshiwala/Spectra)
-
-- 🌱 I’m currently learning **digital marketing and product design**
-
-- 👯 I’m looking to collaborate on [Tactiq](https://github.com/aaravbanshiwala/Tactiq)
-
-- 🤝 I’m looking for help with [Helix](https://github.com/aaravbanshiwala/Helix)
-
-- 👨‍💻 All of my projects are available at [aaravbanshiwala.us.to](aaravbanshiwala.us.to)
-
 - 💬 Ask me about **web development & java**
 
-- 📫 How to reach me **aarav@hey.com**
+- 📫 How to reach me **aaravbanshiwala@gmail.com**
 
 - ⚡ Fun fact **I used to own a large Minecraft Network with over 100+ players on our peak days.**
 
