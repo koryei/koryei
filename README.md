@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **web development & java**
 
-- 📫 How to reach me **koryei@gmail.com**
+- 📫 How to reach me **aaravbanshiwala@gmail.com**
 
 - ⚡ Fun fact **I used to own a large Minecraft Network with over 100+ players on our peak days.**
 
